@@ -115,7 +115,7 @@ let pancakeSwap = {
     "bscChainTestNet": "https://pancake.kiemtienonline360.com/#/swap?outputCurrency="+config.contract,
 }
 
-let host = "https://springtigertoken.github.io"
+let host = "https://metadogeking.github.io"
 let kLine = "https://poocoin.app/tokens/"+config.contract
 let chainInfo = {
     "bscChainTestNet": {
